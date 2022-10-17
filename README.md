@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview
+
+Open [https://michalwowk.github.io/Diamond/](https://michalwowk.github.io/Diamond/) to preview.
+
 ## Available Scripts
 
 In the project directory, you can run:
